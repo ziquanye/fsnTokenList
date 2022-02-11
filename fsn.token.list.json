@@ -1,41 +1,39 @@
 {
-  "current": {
-      "name": "Fusion",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
-      "keywords": [
-          "fsn"
-      ],
-      "timestamp": "2022-02-10T20:37:00.000+00:00",
-      "tokens": [
-        {
-            "chainId": 1667,
-            "address": "0x5555e10d7e69b7246af27fe1a93466a84c199b6f",
-            "name": "Fusion",
-            "symbol": "FSN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
-        },
-        {
-            "chainId": 1667,
-            "address": "0x9c061dc72c0203f643f9a348dfcce3e73b5bd2c8",
-            "name": "Tether USD",
-            "symbol": "USDT",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
-        },
-        {
-            "chainId": 1667,
-            "address": "0xed0294dbd2a0e52a09c3f38a09f6e03de2c44fcf",
-            "name": "Chainge",
-            "symbol": "CHNG",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
-        }
-      ],
-      "version": {
-          "major": 1,
-          "minor": 0,
-          "patch": 0
-      }
-  }
+    "name": "Fusion",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+    "keywords": [
+        "fsn"
+    ],
+    "timestamp": "2022-02-10T20:37:00.000+00:00",
+    "tokens": [
+    {
+        "chainId": 1667,
+        "address": "0x5555e10d7e69b7246af27fe1a93466a84c199b6f",
+        "name": "Fusion",
+        "symbol": "FSN",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+        "chainId": 1667,
+        "address": "0x9c061dc72c0203f643f9a348dfcce3e73b5bd2c8",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+        "chainId": 1667,
+        "address": "0xed0294dbd2a0e52a09c3f38a09f6e03de2c44fcf",
+        "name": "Chainge",
+        "symbol": "CHNG",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
 }
