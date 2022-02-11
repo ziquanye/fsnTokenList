@@ -1,11 +1,11 @@
 {
   "current": {
       "name": "Fusion",
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
       "keywords": [
           "fsn"
       ],
-      "timestamp": "2022-02-11",
+      "timestamp": "2022-02-10T20:37:00.000+00:00",
       "tokens": [
         {
             "chainId": 1667,
@@ -13,7 +13,7 @@
             "name": "Fusion",
             "symbol": "FSN",
             "decimals": 18,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
         },
         {
             "chainId": 1667,
@@ -21,7 +21,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
         },
         {
             "chainId": 1667,
@@ -29,7 +29,7 @@
             "name": "Chainge",
             "symbol": "CHNG",
             "decimals": 18,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
         }
       ],
       "version": {
